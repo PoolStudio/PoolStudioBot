@@ -3,7 +3,6 @@
 var msgId = qnext.getValue("update.message.message_id");
 var gtEntities = qnext.getValue("localVar.gtEntities", "");
 var gtText = qnext.getValue("update.message.text");
-
 var chatId = -1001458086210;
 async function run() {
   var body = {};
