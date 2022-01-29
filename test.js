@@ -1,1 +1,1 @@
-export.tmp = 123;
+exports.tmp = 123;
